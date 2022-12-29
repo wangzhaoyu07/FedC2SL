@@ -1,5 +1,4 @@
-test_on_lucas.ipynb
-notears_admm/
-log
-.pytest_cache
-model
+FedC2SL/test_on_lucas.ipynb
+FedC2SL/notears_admm/
+FedC2SL/log/
+FedC2SL/model/
