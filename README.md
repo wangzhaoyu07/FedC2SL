@@ -17,9 +17,9 @@ casual-learn==0.1.2.8
 ## Usage
 
 ```
-python TestFedC2SL_on_Synthetic_and_Real_Data.py
+python FedC2SL.TestFedC2SL_on_Synthetic_and_Real_Data.py
 
-python TestFedC2SL_on_NonIID.py
+python FedC2SL.TestFedC2SL_on_NonIID.py
 
 ```
 
