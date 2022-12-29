@@ -1,0 +1,12 @@
+variable_num,20,round,0,time,1.0246939659118652,SHD,3
+variable_num,20,round,1,time,0.6420745849609375,SHD,6
+variable_num,20,round,2,time,0.7754571437835693,SHD,1
+variable_num,20,round,3,time,0.8165285587310791,SHD,2
+variable_num,20,round,4,time,0.7195897102355957,SHD,4
+variable_num,20,round,5,time,0.8161146640777588,SHD,5
+variable_num,20,round,6,time,0.9769823551177979,SHD,1
+variable_num,20,round,7,time,0.6655123233795166,SHD,8
+variable_num,20,round,8,time,0.772869348526001,SHD,1
+variable_num,20,round,9,time,1.1419341564178467,SHD,3
+average result:
+variable_num,20.0,round,4.5,time,0.8351756811141968,SHD,3.4

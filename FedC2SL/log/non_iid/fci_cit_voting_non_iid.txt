@@ -1,0 +1,12 @@
+variable_num,20,cleint_num,4,round,0,time,2.7263729572296143,SHD,11
+variable_num,20,cleint_num,4,round,1,time,2.05806040763855,SHD,16
+variable_num,20,cleint_num,4,round,2,time,2.206315279006958,SHD,11
+variable_num,20,cleint_num,4,round,3,time,3.1608657836914062,SHD,11
+variable_num,20,cleint_num,4,round,4,time,1.4862852096557617,SHD,11
+variable_num,20,cleint_num,4,round,5,time,2.2930264472961426,SHD,11
+variable_num,20,cleint_num,4,round,6,time,3.3729753494262695,SHD,11
+variable_num,20,cleint_num,4,round,7,time,2.0100536346435547,SHD,18
+variable_num,20,cleint_num,4,round,8,time,1.996509075164795,SHD,13
+variable_num,20,cleint_num,4,round,9,time,3.45278000831604,SHD,10
+average result:
+variable_num,20.0,cleint_num,4.0,round,4.5,time,2.4763244152069093,SHD,12.3

@@ -1,0 +1,17 @@
+variable_num,20,cleint_num,4,round,0,time,77.98556637763977,SHD,7
+variable_num,20,cleint_num,4,round,1,time,63.09861993789673,SHD,2
+variable_num,20,cleint_num,4,round,2,time,50.157554149627686,SHD,3
+variable_num,20,cleint_num,4,round,3,time,65.1287534236908,SHD,2
+variable_num,20,cleint_num,4,round,4,time,69.78419923782349,SHD,10
+variable_num,20,cleint_num,4,round,5,time,49.35011029243469,SHD,11
+variable_num,20,cleint_num,4,round,6,time,67.01243758201599,SHD,1
+variable_num,20,cleint_num,4,round,7,time,60.004204988479614,SHD,5
+variable_num,20,cleint_num,4,round,8,time,74.37675476074219,SHD,12
+variable_num,20,cleint_num,4,round,9,time,35.18731927871704,SHD,1
+average result:
+variable_num,20.0,cleint_num,4.0,round,4.5,time,61.2085520029068,SHD,5.4
+node_num,20,cleint_num,4,round,0,time,72.60251188278198,SHD,28
+node_num,10,cleint_num,4,round,0,time,8.254455804824829,SHD,14
+node_num,10,cleint_num,4,round,1,time,9.48621678352356,SHD,10
+node_num,10,cleint_num,4,round,0,time,8.850228309631348,SHD,8
+node_num,10,cleint_num,4,round,0,time,11.430290460586548,SHD,13

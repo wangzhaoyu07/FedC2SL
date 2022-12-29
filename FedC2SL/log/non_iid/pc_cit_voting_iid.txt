@@ -1,0 +1,16 @@
+variable_num,20,cleint_num,4,round,0,time,0.9366562366485596,SHD,2
+variable_num,20,cleint_num,4,round,1,time,1.1477839946746826,SHD,0
+variable_num,20,cleint_num,4,round,2,time,1.273331642150879,SHD,1
+variable_num,20,cleint_num,4,round,3,time,0.8551065921783447,SHD,1
+variable_num,20,cleint_num,4,round,4,time,0.8898317813873291,SHD,3
+variable_num,20,cleint_num,4,round,5,time,0.8737673759460449,SHD,2
+variable_num,20,cleint_num,4,round,6,time,0.9511563777923584,SHD,2
+variable_num,20,cleint_num,4,round,7,time,1.1101086139678955,SHD,1
+variable_num,20,cleint_num,4,round,8,time,0.9804544448852539,SHD,2
+variable_num,20,cleint_num,4,round,9,time,1.1930925846099854,SHD,1
+average result:
+variable_num,20.0,cleint_num,4.0,round,4.5,time,1.0211289644241333,SHD,1.5
+node_num,20,cleint_num,4,round,0,time,0.9560613632202148,SHD,4
+node_num,10,cleint_num,4,round,0,time,0.4390280246734619,SHD,1
+node_num,10,cleint_num,4,round,1,time,0.418689489364624,SHD,1
+node_num,10,cleint_num,4,round,0,time,0.4172019958496094,SHD,1

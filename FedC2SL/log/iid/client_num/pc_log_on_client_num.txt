@@ -1,0 +1,10 @@
+variable_num,50,round,0,time,18.378,SHD,1
+variable_num,50,round,1,time,16.283,SHD,1
+variable_num,50,round,2,time,19.500,SHD,0
+variable_num,50,round,3,time,16.953,SHD,2
+variable_num,50,round,4,time,11.711,SHD,3
+variable_num,50,round,5,time,20.464,SHD,0
+variable_num,50,round,6,time,20.025,SHD,1
+variable_num,50,round,7,time,18.269,SHD,0
+variable_num,50,round,8,time,19.758,SHD,1
+variable_num,50,round,9,time,16.574,SHD,3

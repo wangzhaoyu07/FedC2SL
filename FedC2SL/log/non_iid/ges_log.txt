@@ -1,0 +1,12 @@
+variable_num,20,round,0,time,26.882991552352905,SHD,1
+variable_num,20,round,1,time,32.917468309402466,SHD,3
+variable_num,20,round,2,time,25.901803970336914,SHD,0
+variable_num,20,round,3,time,26.701701641082764,SHD,0
+variable_num,20,round,4,time,24.19930863380432,SHD,0
+variable_num,20,round,5,time,16.124387502670288,SHD,4
+variable_num,20,round,6,time,25.629111766815186,SHD,0
+variable_num,20,round,7,time,25.726276874542236,SHD,0
+variable_num,20,round,8,time,35.694472312927246,SHD,2
+variable_num,20,round,9,time,15.02336835861206,SHD,0
+average result:
+variable_num,20.0,round,4.5,time,25.480089092254637,SHD,1.0

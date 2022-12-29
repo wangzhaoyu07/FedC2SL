@@ -1,0 +1,66 @@
+dropout_0.0_round_0
+dropout0.0,round,0, shd:50, time:55.0015664100647, node_num,50,client_num32
+dropout_0.0_round_1
+dropout0.0,round,1, shd:50, time:56.24890065193176, node_num,50,client_num32
+dropout_0.0_round_2
+dropout0.0,round,2, shd:50, time:59.19615125656128, node_num,50,client_num32
+dropout_0.05_round_0
+dropout0.05,round,0, shd:50, time:61.16662883758545, node_num,50,client_num32
+dropout_0.05_round_1
+dropout0.05,round,1, shd:50, time:62.043256521224976, node_num,50,client_num32
+dropout_0.05_round_2
+dropout0.05,round,2, shd:50, time:60.179208755493164, node_num,50,client_num32
+dropout_0.1_round_0
+dropout0.1,round,0, shd:50, time:67.95061230659485, node_num,50,client_num32
+dropout_0.1_round_1
+dropout0.1,round,1, shd:50, time:59.80089616775513, node_num,50,client_num32
+dropout_0.1_round_2
+dropout0.1,round,2, shd:50, time:57.02085542678833, node_num,50,client_num32
+dropout_0.15000000000000002_round_0
+dropout0.15000000000000002,round,0, shd:50, time:62.67069125175476, node_num,50,client_num32
+dropout_0.15000000000000002_round_1
+dropout0.15000000000000002,round,1, shd:50, time:56.65725350379944, node_num,50,client_num32
+dropout_0.15000000000000002_round_2
+dropout0.15000000000000002,round,2, shd:50, time:62.62551188468933, node_num,50,client_num32
+dropout_0.2_round_0
+dropout0.2,round,0, shd:50, time:71.37501406669617, node_num,50,client_num32
+dropout_0.2_round_1
+dropout0.2,round,1, shd:50, time:55.413297176361084, node_num,50,client_num32
+dropout_0.2_round_2
+dropout0.2,round,2, shd:50, time:60.540536403656006, node_num,50,client_num32
+dropout_0.25_round_0
+dropout0.25,round,0, shd:50, time:58.294658184051514, node_num,50,client_num32
+dropout_0.25_round_1
+dropout0.25,round,1, shd:50, time:51.75903105735779, node_num,50,client_num32
+dropout_0.25_round_2
+dropout0.25,round,2, shd:50, time:55.30166983604431, node_num,50,client_num32
+dropout_0.30000000000000004_round_0
+dropout0.30000000000000004,round,0, shd:50, time:63.61987614631653, node_num,50,client_num32
+dropout_0.30000000000000004_round_1
+dropout0.30000000000000004,round,1, shd:50, time:62.9207649230957, node_num,50,client_num32
+dropout_0.30000000000000004_round_2
+dropout0.30000000000000004,round,2, shd:50, time:72.1656584739685, node_num,50,client_num32
+dropout_0.35000000000000003_round_0
+dropout0.35000000000000003,round,0, shd:50, time:66.79580760002136, node_num,50,client_num32
+dropout_0.35000000000000003_round_1
+dropout0.35000000000000003,round,1, shd:50, time:57.863056898117065, node_num,50,client_num32
+dropout_0.35000000000000003_round_2
+dropout0.35000000000000003,round,2, shd:50, time:70.09826517105103, node_num,50,client_num32
+dropout_0.4_round_0
+dropout0.4,round,0, shd:50, time:62.80239176750183, node_num,50,client_num32
+dropout_0.4_round_1
+dropout0.4,round,1, shd:50, time:59.336801052093506, node_num,50,client_num32
+dropout_0.4_round_2
+dropout0.4,round,2, shd:50, time:65.59548139572144, node_num,50,client_num32
+dropout_0.45_round_0
+dropout0.45,round,0, shd:50, time:52.42326068878174, node_num,50,client_num32
+dropout_0.45_round_1
+dropout0.45,round,1, shd:50, time:60.76572942733765, node_num,50,client_num32
+dropout_0.45_round_2
+dropout0.45,round,2, shd:50, time:65.81532907485962, node_num,50,client_num32
+dropout_0.5_round_0
+dropout0.5,round,0, shd:50, time:63.89538908004761, node_num,50,client_num32
+dropout_0.5_round_1
+dropout0.5,round,1, shd:50, time:55.88159942626953, node_num,50,client_num32
+dropout_0.5_round_2
+dropout0.5,round,2, shd:50, time:59.53072500228882, node_num,50,client_num32

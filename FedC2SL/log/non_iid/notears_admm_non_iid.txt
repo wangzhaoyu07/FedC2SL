@@ -1,0 +1,26 @@
+variable_num,20,cleint_num,4,round,0,time,14.21062970161438,SHD,12
+variable_num,20,cleint_num,4,round,1,time,13.784615993499756,SHD,17
+variable_num,20,cleint_num,4,round,2,time,11.763528823852539,SHD,18
+variable_num,20,cleint_num,4,round,3,time,14.540858030319214,SHD,17
+variable_num,20,cleint_num,4,round,4,time,13.580734014511108,SHD,13
+variable_num,20,cleint_num,4,round,5,time,12.040567636489868,SHD,16
+variable_num,20,cleint_num,4,round,6,time,12.886830806732178,SHD,14
+variable_num,20,cleint_num,4,round,7,time,15.222625732421875,SHD,18
+variable_num,20,cleint_num,4,round,8,time,14.10852336883545,SHD,18
+variable_num,20,cleint_num,4,round,9,time,13.016620397567749,SHD,13
+variable_num,20,cleint_num,4,round,0,time,14.341162204742432,SHD,12
+average result:
+variable_num,20.0,cleint_num,4.0,round,4.090909090909091,time,13.590608791871505,SHD,15.272727272727273
+variable_num,20,cleint_num,4,round,0,time,42.95349621772766,SHD,22
+variable_num,20,cleint_num,4,round,0,time,42.88783359527588,SHD,26
+variable_num,20,cleint_num,4,round,0,time,41.35000801086426,SHD,27
+variable_num,20,cleint_num,4,round,1,time,42.797123193740845,SHD,20
+variable_num,20,cleint_num,4,round,2,time,37.0636420249939,SHD,26
+variable_num,20,cleint_num,4,round,0,time,42.52887535095215,SHD,26
+variable_num,20,cleint_num,4,round,0,time,47.41867637634277,SHD,58
+variable_num,20,cleint_num,4,round,1,time,43.39888286590576,SHD,66
+variable_num,20,cleint_num,4,round,2,time,36.81508016586304,SHD,62
+variable_num,20,cleint_num,4,round,3,time,46.719451904296875,SHD,64
+variable_num,20,cleint_num,4,round,4,time,44.527140855789185,SHD,102
+variable_num,20,cleint_num,4,round,5,time,35.78938555717468,SHD,75
+variable_num,20,cleint_num,4,round,6,time,40.8572301864624,SHD,76
